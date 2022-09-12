@@ -1,0 +1,23 @@
+body{
+background: rgb(13, 48, 202);
+font: normal 16pt arial;
+
+}
+header{
+color: white;
+text-align: center;/*Alinha o texto*/
+
+}
+section{
+background: white;
+border-radius: 10px; /*border-radius = raio da borda*/
+padding: 30px;/*padding = espaçamento interno*/
+width: 500px; /*largura*/
+margin: auto;/*Margin= centralizar*/
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.767); /*sombra- é explicado mais sobre no curso de html*/
+}
+footer{
+color:  white;
+text-align: center;
+font-style: italic;
+}
